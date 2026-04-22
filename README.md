@@ -11,36 +11,28 @@ You will need:
 1. Run **imu-bridge**...
 - Switch on the x-IMU3 (it should have a purple light).
 - Connect to the x-IMU3 through the WiFi settings on your device.
-
-<p align="center">
-  <img width="297" height="292" alt="wifi-setup" src="images/wifi-setup.png" />
-</p>
+<img width="297" height="292" alt="wifi-setup" src="images/wifi-setup.png" />
   
 - Press ‘Start Connection’ on the GUI.
-
-<p align="left">
-  <img width="366" height="291" alt="imu-bridge-ui" src="images/imu-bridge-ui.png" />
-</p>
+<img width="366" height="291" alt="imu-bridge-ui" src="images/imu-bridge-ui.png" />
   
 - The LED should strobe white for a short while, and the numbers on the GUI should update rapidly.
 
+
 2. Open **sensor-full-project**...
 - Follow the on-screen prompts to locate the relevant serial port and select it from the drop-down menu.
-
-<p align="center">
-  <img width="297" height="292" alt="serial-poll" src="images/serial-poll.png" />
-</p>
+<img width="297" height="292" alt="serial-poll" src="images/serial-poll.png" />
 
 - Check your MIDI settings, ensuring that the MIDI port ‘from max-patch 1’ is mapped to ‘a’.
-
-<p align="center">
-  <img width="297" height="292" alt="midi-setup" src="images/midi-setup.png" />
-</p>
+<img width="297" height="292" alt="midi-setup" src="images/midi-setup.png" />
 
 - If working, you will be able to scan and set nfc tags, and see a data stream coming in.
 
+
 3. Open your **DAW**...
 - Check that 'from max-patch 1' had the relevant access in the MIDI settings.
+
+
 
 ### windows
 You will need:
