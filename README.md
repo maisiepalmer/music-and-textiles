@@ -12,7 +12,7 @@ You will need:
 - Switch on the x-IMU3 (it should have a purple light).
 - Connect to the x-IMU3 through the WiFi settings on your device.
 
-
+<img width="297" height="292" alt="wifi-setup" src="images/wifi-setup.png" />
   
 - Press ‘Start Connection’ on the GUI.
 
