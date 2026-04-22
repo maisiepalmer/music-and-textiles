@@ -4,8 +4,8 @@ Setup of the study system is different depending on your operating system. You w
 ## setup guide
 ### mac
 You will need:
-[x] An installation of Max: https://cycling74.com/downloads
-[x] The study max patch (included in files as 'sensor-full-project')
+[-] An installation of Max: https://cycling74.com/downloads
+[-] The study max patch (included in files as 'sensor-full-project')
 [x] The IMU data bridge (included in files as 'imu-bridge-mac.zip')
 
 1. Run **imu-bridge**...
