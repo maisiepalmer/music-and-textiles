@@ -1,0 +1,22 @@
+{
+    "pattrstorage": {
+        "name": "presets",
+        "slots": {
+            "1": {
+                "id": 1,
+                "data": {
+                    "data_streams": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+                    "midi_cc_notes": [ 1, 1, 1, 1, 1, 1, 1, 1 ],
+                    "nfc_ids": [ "none", "none", "none", "none", "none", "none", "none", "none" ],
+                    "midi_channels": [ 1, 1, 1, 1, 1, 1, 1, 1 ],
+                    "pressure_threshold": [ 0 ],
+                    "number": [ 1 ],
+                    "selection": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+                    "channel_names": [ "hiiiii", "none", "none", "none", "none", "none", "none", "none" ],
+                    "displayWindow::range_maxs": [ 127, 1, 127, 1, 1, 1, 1, 1 ],
+                    "displayWindow::range_mins": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+                }
+            }
+        }
+    }
+}
