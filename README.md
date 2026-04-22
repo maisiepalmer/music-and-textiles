@@ -2,6 +2,7 @@
 Setup of the study system is different depending on your operating system. You will need: an x-IMU3, both data gloves (nfc & touch), the serial data collector, and a DAW installed.
 
 ## setup guide
+---
 ### mac
 You will need:
 - An installation of Max: https://cycling74.com/downloads
@@ -30,7 +31,7 @@ You will need:
 #### 3. Open your **DAW**...
 - Check that 'from max-patch 1' had the relevant access in the MIDI settings.
 
-
+---
 ### windows
 You will need:
 - An installation of Max: https://cycling74.com/downloads
