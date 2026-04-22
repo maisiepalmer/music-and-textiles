@@ -18,10 +18,10 @@
 
 #### 2. Open **sensor-full-project**...
 - Follow the on-screen prompts to locate the relevant serial port and select it from the drop-down menu.
-<img width="297" height="292" alt="serial-poll" src="images/serial-poll.png" />
+<img width="241" height="174" alt="serial-poll" src="images/serial-poll.png" />
 
 - Check your MIDI settings, ensuring that the MIDI port ‘from max-patch 1’ is mapped to ‘a’.
-<img width="297" height="292" alt="midi-setup" src="images/midi-setup.png" />
+<img width="175" height="195" alt="midi-setup" src="images/midi-setup.png" />
 
 - If working, you will be able to scan and set nfc tags, and see a data stream coming in.
 
@@ -49,26 +49,26 @@
 
 #### 2. Open your **virtual MIDI port**...
 - Follow the developer's instructions to open a virtual loopback port and give it an indentifiable name.
-<img width="366" height="291" alt="loopBe1-setup" src="images/LoopBe1-setup.png" />
+<img width="372" height="253" alt="loopBe1-setup" src="images/LoopBe1-setup.png" />
 
 - This only needs to be done once, but the MIDI port needs to be reopened each time the system is used.
 
 #### 3. Open your **serial port monitor**...
 - Locate the serial/COM port of the fibrephonic serial data collector.
-<img width="366" height="291" alt="serial-monitor-1" src="images/serial-monitor-1.png" /><img width="366" height="291" alt="serial-monitor-2" src="images/serial-monitor-2.png" />
+<img width="367" height="368" alt="serial-monitor-1" src="images/serial-monitor-1.png"/><img width="545" height="368" alt="serial-monitor-2" src="images/serial-monitor-2.png"/>
 
 - Begin monitoring this port, checking for a stream of numbers coming in.
-<img width="366" height="291" alt="serial-monitor-3" src="images/serial-monitor-3.png" />
+<img width="210" height="146" alt="serial-monitor-3" src="images/serial-monitor-3.png" />
 
 - Once this has been identified, stop monitoring the port and close the application. 
 - This needs to be done each time the system is used, before running the Max project.
 
 #### 4. Open **sensor-full-project**...
 - Follow the on-screen prompts to locate the relevant serial port and select it from the drop-down menu.
-<img width="297" height="292" alt="serial-poll" src="images/serial-poll-win.png" />
+<img width="250" height="178" alt="serial-poll" src="images/serial-poll-win.png" />
 
 - Check your MIDI settings, ensuring that the virtual MIDI port is mapped to ‘a’.
-<img width="297" height="292" alt="midi-setup" src="images/midi-setup-win.png" />
+<img width="389" height="453" alt="midi-setup" src="images/midi-setup-win.png" />
 
 - If working, you will be able to scan and set nfc tags, and see a data stream coming in.
 
