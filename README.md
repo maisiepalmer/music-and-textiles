@@ -8,6 +8,8 @@ You will need:
 - The study max patch (included in files as 'sensor-full-project')
 - The IMU data bridge (included in files as 'imu-bridge-mac.zip')
 
+<img width="297" height="292" alt="image" src="https://github.com/user-attachments/assets/7c7c9c38-77ef-401f-a348-56ca585c45e8" />
+
 1. Run **imu-bridge**...
 - Switch on the x-IMU3 (it should have a purple light).
 - Connect to the x-IMU3 through the WiFi settings on your device.
