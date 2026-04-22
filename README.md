@@ -18,7 +18,7 @@ You will need:
   
 - Press ‘Start Connection’ on the GUI.
 
-<p align="center">
+<p align="left">
   <img width="366" height="291" alt="imu-bridge-ui" src="images/imu-bridge-ui.png" />
 </p>
   
@@ -34,10 +34,10 @@ You will need:
 - Check your MIDI settings, ensuring that the MIDI port ‘from max-patch 1’ is mapped to ‘a’.
 
 <p align="center">
-  <img width="297" height="292" alt="wifi-setup" src="images/wifi-setup.png" />
+  <img width="297" height="292" alt="midi-setup" src="images/midi-setup.png" />
 </p>
 
-- If working, the bang object in the top right will light up as MIDI messages are sent.
+- If working, you will be able to scan and set nfc tags, and see a data stream coming in.
 
 3. Open your **DAW**...
 - Check that 'from max-patch 1' had the relevant access in the MIDI settings.
