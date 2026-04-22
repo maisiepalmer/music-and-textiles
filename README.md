@@ -1,10 +1,8 @@
 # music and textiles workshop study
 Setup of the study system is different depending on your operating system. You will need: an x-IMU3, both data gloves (nfc & touch), the serial data collector, and a DAW installed.
-
-## setup guide
 ---
-### mac
-You will need:
+## mac
+### You will need:
 - An installation of Max: https://cycling74.com/downloads
 - The study max patch (included in files as 'sensor-full-project')
 - The IMU data bridge (included in files as 'imu-bridge-mac.zip')
@@ -32,8 +30,8 @@ You will need:
 - Check that 'from max-patch 1' had the relevant access in the MIDI settings.
 
 ---
-### windows
-You will need:
+## windows
+### You will need:
 - An installation of Max: https://cycling74.com/downloads
 - The study max patch (included in files as 'sensor-full-project')
 - The IMU data bridge (included in files as 'imu-bridge-windows.zip')
