@@ -4,9 +4,9 @@ Setup of the study system is different depending on your operating system. You w
 ## setup guide
 ### mac
 You will need:
-[-] An installation of Max: https://cycling74.com/downloads
-[-] The study max patch (included in files as 'sensor-full-project')
-[x] The IMU data bridge (included in files as 'imu-bridge-mac.zip')
+- An installation of Max: https://cycling74.com/downloads
+- The study max patch (included in files as 'sensor-full-project')
+- The IMU data bridge (included in files as 'imu-bridge-mac.zip')
 
 1. Run **imu-bridge**...
 - Switch on the x-IMU3 (it should have a purple light).
@@ -24,11 +24,11 @@ You will need:
 
 ### windows
 You will need:
-[] An installation of Max: https://cycling74.com/downloads
-[] The study max patch (included in files as 'sensor-full-project')
-[] The IMU data bridge (included in files as 'imu-bridge-windows.zip')
-[] A virtual MIDI port: https://www.nerds.de/en/loopbe1.html (*others are available*)
-[] A serial port monitor: https://www.com-port-monitoring.com/downloads.html
+- An installation of Max: https://cycling74.com/downloads
+- The study max patch (included in files as 'sensor-full-project')
+- The IMU data bridge (included in files as 'imu-bridge-windows.zip')
+- A virtual MIDI port: https://www.nerds.de/en/loopbe1.html (*others are available*)
+- A serial port monitor: https://www.com-port-monitoring.com/downloads.html
 
 1. Run **imu-bridge**...
 - Switch on the x-IMU3 (it should have a purple light).
