@@ -55,6 +55,7 @@
 
 #### 3. Open your **serial port monitor**...
 - Locate the serial/COM port of the fibrephonic serial data collector.
+
 <img width="367" height="368" alt="serial-monitor-1" src="images/serial-monitor-1.png"/><img width="545" height="368" alt="serial-monitor-2" src="images/serial-monitor-2.png"/>
 
 - Begin monitoring this port, checking for a stream of numbers coming in.
